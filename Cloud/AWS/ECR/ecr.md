@@ -1,7 +1,7 @@
 ---
 layout: default
-title: using-terraform-to-provision-amazons-ecr-and-ecs-to-manage-containers-docker
-parent: ECR
+title: ECR
+parent: AWS
 nav_order: 2
 ---
 

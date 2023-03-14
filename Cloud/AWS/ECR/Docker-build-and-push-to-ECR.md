@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Docker build and push to ECR
-parent: ECR
+parent: AWS
 nav_order: 3
 ---
 
