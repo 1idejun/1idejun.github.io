@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DevOps
+description:  DevOps
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://1idejun.github.io
 
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "1idejun.github.io":
+    - "//github.com/1idejun/1idejun.github.io"
+

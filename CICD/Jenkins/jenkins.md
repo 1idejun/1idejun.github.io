@@ -1,0 +1,12 @@
+[![Jenkins](./resource/jenkins.png)](https://www.jenkins.io/)
+## [DevOps]/Jenkins
+
+- [jenkins setup](https://www.imooc.com/learn/1008)
+
+- [install jenkins in MasOS](https://www.jianshu.com/p/9dc3b45fbbec)
+   
+
+
+
+---
+[DevOps]: <../../README.md>
