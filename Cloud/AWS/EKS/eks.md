@@ -4,6 +4,7 @@ nav_order: 1
 title: EKS
 parent: AWS
 grand_parent: Cloud
+has_children: true
 permalink: /Cloud/AWS/EKS
 ---
 

@@ -4,6 +4,7 @@ nav_order: 2
 title: ECR
 parent: AWS
 grand_parent: Cloud
+has_children: true
 permalink: /Cloud/AWS/ECR
 ---
 
