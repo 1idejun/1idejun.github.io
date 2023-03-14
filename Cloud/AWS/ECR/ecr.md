@@ -2,7 +2,8 @@
 layout: default
 title: ECR
 parent: AWS
-nav_order: 2
+has_children: true
+nav_order: 5
 ---
 
 [![](./resource/ecr.png)](https://docs.aws.amazon.com/ecr/index.html)

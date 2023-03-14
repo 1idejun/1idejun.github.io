@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Docker build and push to ECR
-parent: AWS
-nav_order: 3
+parent: ECR
+has_children: true
+nav_order: 5
 ---
 
 [![](./resource/ecr.png)](https://aws.amazon.com/?nc2=h_lg)
