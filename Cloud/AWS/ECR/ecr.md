@@ -2,7 +2,7 @@
 layout: default
 title: ECR
 parent: AWS
-has_children: true
+permalink: /ECR
 nav_order: 5
 ---
 

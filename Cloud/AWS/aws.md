@@ -2,7 +2,7 @@
 layout: default
 title: AWS
 parent: Cloud
-has_children: true
+permalink: /AWS
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Docker build and push to ECR
-parent: ECR
+permalink: /ECR
 has_children: true
 nav_order: 5
 ---
