@@ -1,11 +1,14 @@
 ---
 layout: default
-nav_order: 1
-title: Docker-build-and-push-to-ECR
+nav_order: 2
+title: test
 parent: ECR
-grand_parent: AWS
-permalink: /Cloud/AWS/ECR/Docker-build-and-push-to-ECR
+grand_parent: Cloud
+permalink: /Cloud/AWS/ECR/test
 ---
+
+[![](./resource/ecr.png)](https://aws.amazon.com/?nc2=h_lg)
+
 
 ```sh
 # clean
