@@ -3,8 +3,8 @@ layout: default
 nav_order: 1
 title: EKS
 parent: AWS
-grand_parent: CLoud
-permalink: /CLoud/AWS/EKS
+grand_parent: Cloud
+permalink: /Cloud/AWS/EKS
 ---
 
 

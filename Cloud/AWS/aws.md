@@ -1,9 +1,8 @@
 ---
 layout: default
+nav_order: 1
 title: AWS
 parent: Cloud
-permalink: /AWS
-nav_order: 5
 has_children: true
 ---
 

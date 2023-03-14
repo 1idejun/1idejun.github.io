@@ -3,8 +3,8 @@ layout: default
 nav_order: 2
 title: ECR
 parent: AWS
-grand_parent: CLoud
-permalink: /CLoud/AWS/ECR
+grand_parent: Cloud
+permalink: /Cloud/AWS/ECR
 ---
 
 [![](./resource/ecr.png)](https://docs.aws.amazon.com/ecr/index.html)
