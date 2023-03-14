@@ -1,12 +1,11 @@
 ---
 layout: default
-title: AZure
+title: Azure
 parent: Cloud
-nav_order: 2
+has_children: true
 ---
 
 [![](./resource/azure.png)](https://azure.microsoft.com/)
-## [DevOps]/Azure
 
 
 - [Cert](./Cert/cert.md)
