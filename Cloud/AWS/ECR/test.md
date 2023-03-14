@@ -3,7 +3,7 @@ layout: default
 nav_order: 2
 title: test
 parent: ECR
-grand_parent: Cloud
+grand_parent: Cloud/AWS
 permalink: /Cloud/AWS/ECR/test
 ---
 
